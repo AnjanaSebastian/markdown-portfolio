@@ -1,4 +1,4 @@
-Listening music 
-Coding 
-Watching movies
-Gardening
+- Listening music 
+- Coding 
+- Watching movies
+- Gardening
