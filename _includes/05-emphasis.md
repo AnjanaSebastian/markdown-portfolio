@@ -1,11 +1,10 @@
-**This item will be in bold**
-_ html _
-*This item will be in italics*
-_ javascprit _
+**_ html _**
+*_ javascprit _*
 
-**This item will be in bold**
-_ MySQL _
-*This item will be in italics*
-_ C _
-**This item will be in bold**
-_ C++ _
+
+**_ MySQL _**
+
+*_ C _*
+
+**_ C++ _**
+
