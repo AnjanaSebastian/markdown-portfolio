@@ -1,11 +1,11 @@
 **This item will be in bold**
-- html -
- **This item will be in italics**
--javascprit-
+_ html _
+*This item will be in italics*
+_javascprit_
 
 **This item will be in bold**
-MySQL
-**This item will be in italics**
-C
+_MySQL_
+*This item will be in italics*
+_C_
 **This item will be in bold**
 C++
